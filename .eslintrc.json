@@ -34,6 +34,8 @@
       "react/jsx-filename-extension": [1, {"extensions":[".tsx"]}],
       "prettier/prettier": "error",
       "import/prefer-default-export": "off",
+      "react/jsx-one-expression-per-line": "off",
+      "react/jsx-no-target-blank": "off",
       "@typescript-eslint/explicit-function-return-type": [
         "error",
         {
